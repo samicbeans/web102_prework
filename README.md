@@ -21,9 +21,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: 
-
-<a href='[https://imgur.com/foNMfin]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented features: https://imgur.com/foNMfin
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif for Windows
